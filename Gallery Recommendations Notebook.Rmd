@@ -25,3 +25,11 @@ different role in perceived optimism about future jobs for the different
 disciplines.
 
 ***
+
+#### Anna Ehrhorn's Recommendation
+
+I suggest using the scatterplot under question #2 and the boxplot graph under 
+question #3. The scatterplot demonstrates the relationship of GPA and survey
+results seperately for each discipline. Then, the boxplot will demonstrate why
+there could be such a weak positive relationship, which may be due to a lack 
+of difference in degree of optimism.  
