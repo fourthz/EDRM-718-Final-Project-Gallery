@@ -28,8 +28,8 @@ disciplines.
 
 #### Anna Ehrhorn's Recommendation
 
-I suggest using the scatterplot under question #2 and the boxplot graph under 
-question #3. The scatterplot demonstrates the relationship of GPA and survey
-results seperately for each discipline. Then, the boxplot will demonstrate why
-there could be such a weak positive relationship, which may be due to a lack 
-of difference in degree of optimism.  
+I suggest using the scatterplot under question #2 and boxplot for question #3. 
+The scatterplot demonstrates the relationship of GPA and survey
+results separately for each discipline. This will provide more information
+on the relationship for each discipline. The boxplot will demonstrate the
+lack of degree of optimism difference between the various disciplines. 
