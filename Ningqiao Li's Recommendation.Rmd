@@ -1,0 +1,14 @@
+---
+title: "Visual Display Gallery Recommendations"
+author: "Data analysts on Final Project"
+output: html_notebook
+---
+
+***
+
+#### Ningqiao Li's recommendation
+I recommend the 4th table in my notebook ,which is the correlation between average GPA and graduation optimism, the graph well shows the scatter plot, the correlation coeficient with p value, and the regression line with a range of 95% confidence interval. It is very comprehensive and clear. So I recommand it.
+
+
+***
+
