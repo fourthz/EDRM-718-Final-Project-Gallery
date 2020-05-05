@@ -25,7 +25,9 @@ across discipline groups and whether the differences are big or small between
 different discipline groups.
 ***
 ```{r echo=TRUE}
+library(tidyverse)
 job<-read_csv("job.csv")
+job
 plot2<-job %>%
 ggplot(aes(x=Discipline, y=optimism))+
   labs(x=" Discipline",
