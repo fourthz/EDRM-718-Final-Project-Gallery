@@ -1,7 +1,9 @@
 ---
 title: "Visual Display Gallery Recommendations"
 author: "Data analysts on Final Project"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 I am using this notebook to gather your recommendations regarding the visual 
@@ -15,13 +17,23 @@ I will look at all suggestions and graphs before making a final decision.
 Please keep this notebook neat and consistent.
 
 ***
-
-#### Mike's Recommendation
-
-I suggest using Figure #4 from my analysis. This graph clearly displays the
-relationship of GPA and survey results separately for the disciplines. It 
-will help the client understand how academic achievement might play a
-different role in perceived optimism about future jobs for the different
-disciplines.
-
+#### Ruiqin Gao's Recommendation
+I suggest using Figure 4 from my notebook analysis. This graph clearly displays
+optimism score differencesamong students in different discipline groups. 
+It will help the client visually understand the optimism score differences 
+across discipline groups and whether the differences are big or small between
+different discipline groups.
 ***
+```{r echo=TRUE}
+library(tidyverse)
+job<-read_csv("job.csv")
+job
+plot2<-job %>%
+ggplot(aes(x=Discipline, y=optimism))+
+  labs(x=" Discipline",
+       y="Optimism about the future employment",
+       title="Student optimism about future emplyment by discipline")+
+  geom_boxplot(color= "blue", na.rm=TRUE)
+plot2 
+```
+
