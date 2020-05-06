@@ -1,7 +1,9 @@
 ---
 title: "Visual Display Gallery Recommendations"
 author: "Data analysts on Final Project"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 I am using this notebook to gather your recommendations regarding the visual 
