@@ -1,0 +1,47 @@
+---
+title: "Visual Display Gallery Recommendations"
+author: "Data analysts on Final Project"
+output: html_notebook
+---
+
+I am using this notebook to gather your recommendations regarding the visual 
+displays from your analysis that I should highlight when I present this 
+project. Please make sure your figure is clearly labeled in your project
+notebook so that you can refer to it in this notebook when you make your
+recommendation. Also provide a short explanation of why you believe this
+graph should be included in my final report to the client. Note that multiple analysts are welcome to suggest the same type of graph from their report. 
+I will look at all suggestions and graphs before making a final decision.
+
+Please keep this notebook neat and consistent.
+
+***
+
+#### Mike's Recommendation
+
+I suggest using Figure #4 from my analysis. This graph clearly displays the
+relationship of GPA and survey results separately for the disciplines. It 
+will help the client understand how academic achievement might play a
+different role in perceived optimism about future jobs for the different
+disciplines.
+
+***
+
+#### Michael Hornsby Recommendation
+
+I suggest using my Figure #2.  I think this graph clearly displays the 10% 
+largest residuals on the scatterplot of semester 2 GPA on semester 1 GPA.
+This will demonstrate where the 10% of largest residuals falls in the 
+relationship between semesters for the client.
+
+My figures #5 and #6 provide scatterplots of survey total and senior year
+GPA.  These are simple but necessary for the full scope of the analysis.
+They give a sense of how normal these variables are. This is a necessary 
+assumption for the analysis I performed (linear regression, ANCOVA, and 
+ANOVA).
+
+Finally, my figure 7 clearly highlights a lot of information about the second
+research question the client was interested in.  It clearly demonstrates a best
+fit line of senior year GPA on the optimism survey total, with a different 
+line and color for each subject.  This will demonstrate that there isn't
+much variation in the relationship between these two variable for the 
+subject groups.

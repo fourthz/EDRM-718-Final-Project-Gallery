@@ -1,0 +1,9 @@
+---
+title: "Artie's Recommendation"
+output: html_notebook
+---
+Artie's Recommendation
+  
+I suggest using the scatterplot created from lines 179-186 of my project for the gallery. The scatterplot produced shows that there does not seem to be linear relationship between GPA and degree of optimism across disciplines. 
+
+
