@@ -1,5 +1,0 @@
----
-title: "Visual Display Gallery Recommendations"
-author: "Data analysts on Final Project"
-output: html_notebook
----
