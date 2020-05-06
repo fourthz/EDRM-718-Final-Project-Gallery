@@ -24,4 +24,3 @@ It will help the client visually understand the optimism score differences
 across discipline groups and whether the differences are big or small between
 different discipline groups.
 ```
-
