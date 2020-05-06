@@ -9,7 +9,8 @@ displays from your analysis that I should highlight when I present this
 project. Please make sure your figure is clearly labeled in your project
 notebook so that you can refer to it in this notebook when you make your
 recommendation. Also provide a short explanation of why you believe this
-graph should be included in my final report to the client. Note that multiple analysts are welcome to suggest the same type of graph from their report. 
+graph should be included in my final report to the client. Note that multiple 
+analysts are welcome to suggest the same type of graph from their report. 
 I will look at all suggestions and graphs before making a final decision.
 
 Please keep this notebook neat and consistent.
