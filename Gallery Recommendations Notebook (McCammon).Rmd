@@ -1,0 +1,39 @@
+---
+title: "Visual Display Gallery Recommendations"
+author: "Data analysts on Final Project"
+output: html_notebook
+---
+
+I am using this notebook to gather your recommendations regarding the visual 
+displays from your analysis that I should highlight when I present this 
+project. Please make sure your figure is clearly labeled in your project
+notebook so that you can refer to it in this notebook when you make your
+recommendation. Also provide a short explanation of why you believe this
+graph should be included in my final report to the client. Note that multiple 
+analysts are welcome to suggest the same type of graph from their report. 
+I will look at all suggestions and graphs before making a final decision.
+
+Please keep this notebook neat and consistent.
+
+***
+
+#### Mike's Recommendation
+
+I suggest using Figure #4 from my analysis. This graph clearly displays the
+relationship of GPA and survey results separately for the disciplines. It 
+will help the client understand how academic achievement might play a
+different role in perceived optimism about future jobs for the different
+disciplines.
+
+***
+
+***
+
+#### Meka's Recommendation
+
+I suggest using Figure #4 from my analysis. This graph is aesthetically 
+pleasing and clearly descibes the results of the research question.
+This graph will allow the researcher to report differences between all 
+of the disciplines and make conclusive statements about the survey results. 
+
+***
