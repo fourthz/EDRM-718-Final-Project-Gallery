@@ -24,5 +24,3 @@ relationship of GPA and survey results separately for the disciplines. It
 will help the client understand how academic achievement might play a
 different role in perceived optimism about future jobs for the different
 disciplines.
-
-***
